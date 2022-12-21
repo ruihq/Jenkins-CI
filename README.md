@@ -1,2 +1,2 @@
-# Travis-CI
-Kind of my first Repository to use Travis CI/CD
+# Jenkins-CI
+Kind of my first Repository to use Jenkins CI/CD
